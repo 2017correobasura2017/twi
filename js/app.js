@@ -1,4 +1,4 @@
-var url = wwindow.location.href;
+var url = window.location.href;
 var swLocation = '/twi/sw.js';
 
 if (navigator.serviceWorker) {
